@@ -2,13 +2,14 @@ Github Profile counter
 <img src="https://profile-counter.glitch.me/<HoJ00n2>/count.svg">
 
 Github Follow button
-[![GitHub followers](https://img.shields.io/github/followers/HoJ00n2.svg?style=social&label=Followers)](https://github.com/jh-jaehyuk?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/HoJ00n2.svg?style=social&label=Followers)](https://github.com/HoJ00n2?tab=followers)
 
-🎓 Master degree on **AI Engineering**.
+🎓 Master of **AI Engineering**.
+🎓 Bachelor of **Information and Communication Engineering.**
 
-🌱 I'm currently learning **AI**(*especially LLM*) and **Python**.
+🌱 I'm currently learning **AI Service**(*especially LLM*) and **Python**.
 
-🤔 My hobbies are **working out**🏋️ and **playing games**🎮.
+🤔 My hobbies are **working out**🏋.
 
 💬 If you have any questions, just ask me.
 
