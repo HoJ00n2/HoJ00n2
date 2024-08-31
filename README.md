@@ -28,7 +28,7 @@ Github Follow button
 ### Some awesome repos that Me and My team members have made:
 
 - **[SpeakingPotato - Trip Reservation Web Application](https://github.com/HoJ00n2/SKN01-2nd-4Team)**
-- **[ATTENTION - Building CI/CD by using Github Actions](https://github.com/Jh-jaehyuk/SKN01-3nd-1Team)**
+- **[ATTENTION - Building CI/CD by using Github Actions](https://github.com/HoJ00n2/SKN01-3nd-2Team)**
 
 
 ### Here's the languages that I am currently working on:
