@@ -57,7 +57,7 @@ Github Follow button
 <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=000&style=flat"></a>
-<a href="#"><img alt="LangChain" src="https://img.shields.io/badge/Langchain-teal"></a>
+<a href="#"><img alt="LangChain" src="https://img.shields.io/badge/Langchain-teal&logo=LangChain&logoColor=FFFFFF&label="></a>
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
