@@ -8,6 +8,8 @@ Github Follow button
 
 🎓 Bachelor of **Information and Communication Engineering.**
 
+🌱 I'm interested in Computer Vision & Domain Transfer
+
 🌱 I'm currently learning **AI Service**(*especially LLM*) and **Python**.
 
 🤔 My hobbies are **working out**🏋.
