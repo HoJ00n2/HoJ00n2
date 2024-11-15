@@ -32,7 +32,12 @@ Github Follow button
 - **[SpeakingPotato - Trip Reservation Web Application](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-3Team)**
 - **[ATTENTION - AI 활용 애플리케이션 개발 : LLM 기반 AI 이상형 게임](https://github.com/HoJ00n2/SKN01-4th-2Team)**
 - **[AI 활용 인공지능 인플루언서](https://github.com/HoJ00n2/SKN01-final-4Team/tree/main)**
+- **[AI 활용 인공지능 인플루언서 소개 및 시연 영상](https://www.youtube.com/watch?v=me3UKL03oxM)**
 
+### My awards and achievements:
+- **[2024/11 - SKN 네트웍스 LLM AI CAMP 1기 : 최종 프로젝트 최우수상]**
+- **[2022/8 - 인하 인공지능 챌린지 2 : 풍력발전기 전력량을 예측하는 대회에서 우수상 수상]**
+- **[2021/8 - 인하 인공지능 챌린지 1 : 다양한 환경에 놓인 사람들을 인식하고 분류하는 대회에서 최우수상 수상]**
 
 ### Here's the languages that I am currently working on:
 
