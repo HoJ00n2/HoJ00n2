@@ -64,7 +64,7 @@ Github Follow button
 <a href="#"><img alt="Axios" src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=000&style=flat"></a>
+<a href="#"><img alt="HuggingFace" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=000&style=flat"></a>
 <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-teal?logo=LangChain&logoColor=FFFFFF&label="></a>
 </p>
 
