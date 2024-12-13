@@ -29,7 +29,6 @@ Github Follow button
 
 ### Some awesome repos that Me and My team members have made:
 
-- **[SpeakingPotato - Trip Reservation Web Application](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-3Team)**
 - **[ATTENTION - AI 활용 애플리케이션 개발 : LLM 기반 AI 이상형 게임](https://github.com/HoJ00n2/SKN01-4th-2Team)**
 - **[Cooing - AI 활용 인공지능 인플루언서](https://github.com/HoJ00n2/SKN01-final-4Team/tree/main)**
 - **[AI 활용 인공지능 인플루언서 소개 및 시연 영상](https://www.youtube.com/watch?v=me3UKL03oxM)**
