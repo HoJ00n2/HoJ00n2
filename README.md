@@ -66,6 +66,7 @@ Github Follow button
 <a href="#"><img alt="HuggingFace" src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=000&style=flat"></a>
 <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-teal?logo=LangChain&logoColor=FFFFFF&label="></a>
 <a href="#"><img alt="Airflow" src="https://img.shields.io/badge/apacheairflow-017CEE?logo=apacheairflow&style=flat"></a>
+<a href="#"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-black?style=flat&logo=vonage"></a>
 </p>
 
 <h2>🗄️ Databases and Cloud Hosting</h2>
